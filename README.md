@@ -72,22 +72,6 @@ Futuramente
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%203/imagem/imagens.png" width="100%"/>
 </p>
 
-## Sprint 4
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%203/imagem/video.png" width="100%"/>
-</p>
-
-## Apresentação final (se necessario)
-Vídeo com a apresentação final da API do "semestre/ano"
->Colocar o vídeo da apresentação
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/alinhamento.png" width="100%"/>
-</p>
-
 ## Tecnologias Utilizadas
 ### Produto 
 > Descreva aqui a parte do MVP referente a cada Sprint
